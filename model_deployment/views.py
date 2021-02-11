@@ -6,7 +6,7 @@ import pandas as pd
 import sklearn
 from sklearn.preprocessing import StandardScaler
 from datetime import datetime
-model = pickle.load(open("D:/Artificial Intelligence/Machine Learning End to End Deployment/car price prediction/random_forest_regressor_model.pkl",'rb'))
+model = pickle.load(open("random_forest_regressor_model.pkl",'rb'))
 
 # def index(request):
 #     return render(request, 'index.html')
