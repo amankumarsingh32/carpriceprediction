@@ -26,7 +26,7 @@ SECRET_KEY = '4**__jc+(7n7+akrd2j1l^4_x0v#+vih+7$2gek2(kdzbiq!p5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['carsellingcardekho.herokuapp.com']
 
 
 # Application definition
